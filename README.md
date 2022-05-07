@@ -2,8 +2,8 @@
 #### Supervised by: Mr. Vincent Leclère
 #### Course: Stochastic Optimization.
 #### Programming Language: Julia 1.6.4
-Multi-stage Stochastic Program Project
-
+A multistage stochastic problem, we used several concepts that we studied during the Stochastic Optimization course such as anticipative structure, dynamic
+programming, etc... to optimize a function of a random variable.
 ## Introducation 
 Assume that every morning you can buy some flower at cost ***c***, during the day you can sell them at price ***p***. At the end of the day you can keep the flowers for the next day. During each day the demand is an integer uniformly taken between ***1*** and ***D***.
 
